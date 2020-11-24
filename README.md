@@ -1,2 +1,3 @@
-# Blindness-resources
-Provide resources that can be used by the blind community and those who support the blind community 
+  There is a gap in the blindness community including  medical professionals which is lack of understanding of what blindness is and the available resources which can be leveraged by all interested parties which include but are not limited to the person who is blind, their care givers and the medical professional involved in the treatment of the blind comunity.  The purpose of this document is to address this gap.  The impact will be to reduce the frustration that members of the blind community  have when attempting to locate  resources to lessen the impact of learning how to be blind and provide a resource to medical professionals to assist their patients in the transition to the blind life style.
+
+ "I may be blind or have an idea what blind  means but i am not an expert in blindness" by unknown sourse 
